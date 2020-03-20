@@ -1,0 +1,8 @@
+@charset "utf-8";
+body{
+  background-image:url(../images/kumeki.jpg);
+  background-repeat:repeat-x;
+}
+h1{
+  color:#ff0000;
+}

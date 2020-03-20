@@ -1,0 +1,10 @@
+@charset "utf-8";
+div{
+  background-image:url(../images/kumeki.jpg);
+  background-repeat:no-repeat;
+  background-size:contain;
+  height:100vh;
+}
+p{
+  color:#ff0000;
+}
