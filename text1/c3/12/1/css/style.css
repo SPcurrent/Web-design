@@ -1,0 +1,9 @@
+@charset "utf-8";
+ul{
+  list-style-type:square;
+  background:#ffe95c;
+}
+ol{
+  list-style-type:hiragana;
+  background:#650b5d;
+}

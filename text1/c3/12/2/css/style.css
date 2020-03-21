@@ -1,0 +1,10 @@
+@charset "utf-8";
+ul{
+  list-style-position:outside;
+}
+ol{
+  list-style-position:inside;
+}
+li{
+  background:#cbe082;
+}
